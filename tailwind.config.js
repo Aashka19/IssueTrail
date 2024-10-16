@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'footer': '#4E463A',
+        'footer': '#353535',
         'org': '#04080D',
         'organization-button': '#04080d',
       },
